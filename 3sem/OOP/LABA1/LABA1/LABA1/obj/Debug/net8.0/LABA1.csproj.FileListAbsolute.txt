@@ -1,0 +1,14 @@
+D:\Учёба\2 курс\ООП\LABA1\LABA1\LABA1\bin\Debug\net8.0\LABA1.exe
+D:\Учёба\2 курс\ООП\LABA1\LABA1\LABA1\bin\Debug\net8.0\LABA1.deps.json
+D:\Учёба\2 курс\ООП\LABA1\LABA1\LABA1\bin\Debug\net8.0\LABA1.runtimeconfig.json
+D:\Учёба\2 курс\ООП\LABA1\LABA1\LABA1\bin\Debug\net8.0\LABA1.dll
+D:\Учёба\2 курс\ООП\LABA1\LABA1\LABA1\bin\Debug\net8.0\LABA1.pdb
+D:\Учёба\2 курс\ООП\LABA1\LABA1\LABA1\obj\Debug\net8.0\LABA1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\2 курс\ООП\LABA1\LABA1\LABA1\obj\Debug\net8.0\LABA1.AssemblyInfoInputs.cache
+D:\Учёба\2 курс\ООП\LABA1\LABA1\LABA1\obj\Debug\net8.0\LABA1.AssemblyInfo.cs
+D:\Учёба\2 курс\ООП\LABA1\LABA1\LABA1\obj\Debug\net8.0\LABA1.csproj.CoreCompileInputs.cache
+D:\Учёба\2 курс\ООП\LABA1\LABA1\LABA1\obj\Debug\net8.0\LABA1.dll
+D:\Учёба\2 курс\ООП\LABA1\LABA1\LABA1\obj\Debug\net8.0\refint\LABA1.dll
+D:\Учёба\2 курс\ООП\LABA1\LABA1\LABA1\obj\Debug\net8.0\LABA1.pdb
+D:\Учёба\2 курс\ООП\LABA1\LABA1\LABA1\obj\Debug\net8.0\LABA1.genruntimeconfig.cache
+D:\Учёба\2 курс\ООП\LABA1\LABA1\LABA1\obj\Debug\net8.0\ref\LABA1.dll
